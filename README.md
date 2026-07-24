@@ -93,7 +93,7 @@ Four actions, none requiring new physical beds:
 
 ## Links
 
-- **Live Power BI dashboard:** <!-- <iframe title="Albion" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWIzNjRlMWQtMzgyMS00YWYyLThiYTItMTU0ZDhmZWQyNmIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9" frameborder="0" allowFullScreen="true"></iframe> -->
+- **[Live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIzNjRlMWQtMzgyMS00YWYyLThiYTItMTU0ZDhmZWQyNmIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 - **Analysis report:** see `/reports`
 - **Full documentation:** see `/documentation`
 
