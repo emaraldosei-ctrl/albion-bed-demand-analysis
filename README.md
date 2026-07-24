@@ -108,4 +108,4 @@ Four actions, none requiring new physical beds:
 
 ---
 
-*Built by Esmeralda Osei · [LinkedIn](https://www.linkedin.com/in/esmeralda-pinamang-osei-942a35111) · [Portfolio](https://emaraldosei-ctrl.github.io)*
+*Built by Esmeralda Osei · [LinkedIn](https://www.linkedin.com/in/esmeralda-pinamang-osei-942a35111) · [Portfolio](https://emaraldosei-ctrl.github.io/Data-Analysis-portfolio/)*
