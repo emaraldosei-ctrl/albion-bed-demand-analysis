@@ -35,19 +35,19 @@ A three-page Power BI report, designed so each page answers one question.
 
 ### 1. Executive Dashboard — occupancy, demand and risk at a glance
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](https://github.com/emaraldosei-ctrl/albion-bed-demand-analysis/blob/main/Albion/Images/Executive%20Dashboard.png)
 
 Five headline KPIs, seasonality with the 85% safe-operating line, ward pressure with amber alerts, the emergency/elective demand mix, and the staffing-vs-demand risk.
 
 ### 2. Operational View — day-to-day detail for managers
 
-![Operational Dashboard](images/operational-dashboard.png)
+![Operational Dashboard](https://github.com/emaraldosei-ctrl/albion-bed-demand-analysis/blob/main/Albion/Images/Operational%20Dashboard.png)
 
 Occupancy trend over time, length of stay by ward, patient flow (admissions vs discharges), staffing plan vs actual, and occupancy by bed type — filterable by hospital, ward and date.
 
 ### 3. Scenario Planning — interactive what-if modelling
 
-![Scenario Planning](images/scenario-planning.png)
+![Scenario Planning](https://github.com/emaraldosei-ctrl/albion-bed-demand-analysis/blob/main/Albion/Images/Scenario%20Planning.png)
 
 Three what-if sliders (emergency surge, delayed discharges, bed closures) with preset **Today / Bad Flu Season / Discharge Crisis / Winter Crisis** bookmarks. Colour is used as a signal: KPI cards and ward bars turn amber then red as they cross the 85% safe threshold.
 
@@ -93,7 +93,7 @@ Four actions, none requiring new physical beds:
 
 ## Links
 
-- **Live Power BI dashboard:** <!-- PASTE YOUR PUBLISHED POWER BI LINK HERE -->
+- **Live Power BI dashboard:** <!-- <iframe title="Albion" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWIzNjRlMWQtMzgyMS00YWYyLThiYTItMTU0ZDhmZWQyNmIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9" frameborder="0" allowFullScreen="true"></iframe> -->
 - **Analysis report:** see `/reports`
 - **Full documentation:** see `/documentation`
 
